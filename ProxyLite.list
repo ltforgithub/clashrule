@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,1e100
 
 # 林腾加入tmdb刮削网址
 DOMAIN-KEYWORD,themoviedb
+DOMAIN-SUFFIX,fanart.tv
 
 
 # IP段匹配
